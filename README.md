@@ -1,4 +1,6 @@
-# Date : 
+# Name: Piritharaman R
+# Ref no: 212223230148
+
 # Correlation and regression for data analysis
 # Aim : 
 
@@ -21,12 +23,6 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
 
 # Program :
-
-Developed by : HARINI R.
-
-Register Number : 212223100010
-
-
 ````
 import numpy as np
 import math
@@ -61,8 +57,6 @@ plt.xlabel('x-data')
 plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
 ````
-
-
 
 # Output 
 ![image](https://github.com/raja-harini/Correlation_Regression/assets/149037372/76c95857-e146-49a5-b432-b68175687368)
